@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+body{
+    font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color: gainsboro;
+}
+
+.name h2{
+    color: #078bc9;
+    text-align: center;
+    
+}
+
+.name img{
+    height: 350px;
+    border: 2px solid red;
+    margin: 0% 500px;
+    display: block;   
+}
+
+.details {
+    color: brown;
+    display: block;
+    text-align: center;
+    margin: 0% auto;
+    padding: 10px 25px;
+    
+}
+
+#switch{
+    display: block;
+    text-align: end;
+    padding: 0% 25px;
+}
+
